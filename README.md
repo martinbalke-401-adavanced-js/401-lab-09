@@ -1,19 +1,23 @@
-# LAB - 08
+# LAB - 09
 
-## API Server
+## API server
 
 ### Author: Martin Balke
 
 ### Links and Resources
-* [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-08/pull/1)
-* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-08)
+* [submission PR](http://xyz.com)
+* [travis](http://xyz.com)
+* [back-end](http://xyz.com) (when applicable)
+* [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
-* [api docs]()
+* [api docs](http://xyz.com) (API servers)
+* [jsdoc](http://xyz.com) (Server assignments)
+* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
-#### `server.js`
-##### Exported Values and Methods 
+#### `modulename.js`
+##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
@@ -23,7 +27,8 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - 3000
+* `PORT` - Port Number
+* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
 * `npm start`
@@ -33,8 +38,9 @@ Usage Notes or examples
   * Returns a JSON object with xyz in it.
   
 #### Tests
-* How do you run tests? NPM Test
-* What assertions were made? All crud operations work on all routes
+* How do you run tests?
+* What assertions were made?
+* What assertions need to be / should be made?
 
 #### UML
 Link to an image of the UML for your application and response to events
