@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-09/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-09)
 * [front-end](https://martin-lab-09.herokuapp.com/)
 
 
