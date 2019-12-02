@@ -1,40 +1,29 @@
-# LAB - 08
+# LAB - 09
 
-## API Server
+## API server
 
 ### Author: Martin Balke
 
 ### Links and Resources
-* [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-08/pull/1)
-* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-08)
+* [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-09/pull/1)
+* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-09)
+* [front-end](https://martin-lab-09.herokuapp.com/)
 
-#### Documentation
-* [api docs]()
 
-### Modules
-#### `server.js`
-##### Exported Values and Methods 
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
 * `PORT` - 3000
+* `MONGODB_URI` - mongodb://127.0.0.1:27017/app
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+
   
 #### Tests
-* How do you run tests? NPM Test
-* What assertions were made? All crud operations work on all routes
+* How do you run tests?
+Npm run test
+* What assertions were made?
+All routes are working as intended
+* What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
